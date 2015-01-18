@@ -3,28 +3,10 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+My name is Sasa Ranisavljevic. I live in [Belgrade](http://en.wikipedia.org/wiki/Belgrade), spending most of my days [coding](http://www.sbgenomics.com/) (almost always with [music](http://www.last.fm/user/pax404) in background).
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Sometimes I'm [writing](http://puts.rand.rs/). Sometimes I'm [retweeting](https://twitter.com/sale87). I'm trying to [read](https://www.goodreads.com/user/show/10031318-sa-a-ranisavljevi) as much as I can.
 
-There are currently two themes built on Poole:
+You can find me on [Linkedin](https://www.linkedin.com/pub/sasa-ranisavljevic/57/17a/979). I also have [Github](https://github.com/sale87) account (although I'm using [Bitbucket](https://bitbucket.org/sale87) more for private stuff).
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+I like to play Go, Starcraft and Counter Strike. I play bass guitar.
